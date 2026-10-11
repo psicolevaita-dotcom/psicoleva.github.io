@@ -9,6 +9,7 @@ import json
 import os
 import subprocess
 import sys
+import time
 
 # Strumenti con cui un thread parla all'utente: notifichiamo solo questi.
 PARLA = {"mcp__hearthbot__reply": "text", "mcp__hearthbot__ask_decision": "question"}
@@ -85,11 +86,18 @@ def main():
         "priority": priorita,
         "click": os.environ.get("NTFY_CLICK", "https://claude.ai/code"),
     }
-    subprocess.run(
-        ["curl", "-s", "-m", "8", "-o", "/dev/null", "-H", "Content-Type: application/json",
-         "-d", json.dumps(pacchetto), "https://ntfy.sh/"],
-        check=False,
-    )
+    # ntfy.sh limita le richieste per indirizzo IP e i thread cloud condividono
+    # l'uscita di rete: se risponde 429 (troppe richieste) riprova dopo qualche secondo.
+    for attesa in (0, 5, 10):
+        time.sleep(attesa)
+        esito = subprocess.run(
+            ["curl", "-s", "-m", "8", "-o", "/dev/null", "-w", "%{http_code}",
+             "-H", "Content-Type: application/json",
+             "-d", json.dumps(pacchetto), "https://ntfy.sh/"],
+            check=False, capture_output=True, text=True,
+        )
+        if esito.stdout.strip() != "429":
+            break
 
 
 if __name__ == "__main__":
