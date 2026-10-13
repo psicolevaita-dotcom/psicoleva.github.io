@@ -1,0 +1,116 @@
+{
+ "slide": [
+  {
+   "tipo": "copertina",
+   "kicker_n": "6",
+   "kicker": "ESPERIMENTI SULLA CALMA",
+   "bianco": "TI HANNO FATTO ARRABBIARE.",
+   "giallo": "HANNO VINTO LORO.",
+   "sottotitolo": "Quando la rabbia ti fa vincere, quando ti distrugge, e l'abitudine di tre secondi che cambia una lite.",
+   "espr": "serio",
+   "posa": "fianchi"
+  },
+  {
+   "tipo": "studio",
+   "n": "1",
+   "etichetta": "LA RABBIA PAGA",
+   "bianco": "CHI SI ARRABBIA",
+   "giallo": "SEMBRA CONTARE DI PIÙ.",
+   "testo": "2001, Stanford. Larissa Tiedens si chiede se chi si arrabbia ci sembri più debole o più forte. Mostra lo stesso candidato a un colloquio mentre racconta un errore: in una versione è arrabbiato, nell'altra triste.",
+   "numeri": [
+    [
+     "Stipendio proposto al candidato triste",
+     "PIÙ BASSO",
+     false
+    ],
+    [
+     "Stipendio proposto al candidato arrabbiato",
+     "PIÙ ALTO",
+     true
+    ]
+   ],
+   "chiusa": "Sembra la fine del discorso. <em>Non lo è.</em>"
+  },
+  {
+   "tipo": "studio",
+   "n": "2",
+   "etichetta": "QUANDO SI RITORCE CONTRO",
+   "bianco": "SE L'ALTRO PUÒ ANDARSENE,",
+   "giallo": "LA TUA RABBIA NON VALE NIENTE.",
+   "testo": "2006. Marwan Sinaceur e Larissa Tiedens mettono delle persone a trattare contro un avversario arrabbiato. Ad alcune danno un'alternativa: un altro compratore pronto.",
+   "numeri": [
+    [
+     "Senza un'alternativa",
+     "CEDONO",
+     false
+    ],
+    [
+     "Con un'alternativa",
+     "NON CEDONO",
+     true
+    ]
+   ],
+   "chiusa": "La rabbia funziona solo se l'altro <em>ha bisogno di te</em>."
+  },
+  {
+   "tipo": "studio",
+   "n": "3",
+   "etichetta": "LO SFOGO",
+   "bianco": "PRENDERE A PUGNI UN SACCO",
+   "giallo": "TI RENDE PIÙ AGGRESSIVO.",
+   "testo": "2002. Brad Bushman fa arrabbiare degli studenti con un commento offensivo sul loro tema. Alcuni poi colpiscono un sacco da boxe pensando a chi li ha offesi, altri restano seduti. Alla fine possono punirlo con un rumore fortissimo in cuffia.",
+   "numeri": [
+    [
+     "Aggressività di chi è rimasto seduto",
+     "MENO",
+     false
+    ],
+    [
+     "Aggressività di chi si è sfogato",
+     "DI PIÙ",
+     true
+    ]
+   ],
+   "chiusa": "Lo sfogo non spegne la rabbia. <em>La allena.</em>"
+  },
+  {
+   "tipo": "studio",
+   "n": "4",
+   "etichetta": "IL SILENZIO",
+   "bianco": "STAI ZITTO",
+   "giallo": "PIÙ A LUNGO DEL NORMALE.",
+   "testo": "2022, MIT. Jared Curhan e colleghi chiedono ad alcune persone di fare pause lunghe prima di rispondere in una trattativa. Lo scopo è pensare, non mettere paura.",
+   "numeri": [
+    [
+     "Valore creato, senza pause",
+     "MENO",
+     false
+    ],
+    [
+     "Valore creato, con le pause",
+     "DI PIÙ",
+     true
+    ]
+   ],
+   "chiusa": "In quei secondi smetti di reagire e <em>cominci a pensare</em>."
+  },
+  {
+   "tipo": "difesa",
+   "kicker": "LA DIFESA",
+   "kicker2": "TRE SECONDI",
+   "bianco": "QUANDO TI SALE",
+   "giallo": "IL CALDO IN FACCIA.",
+   "testo": "Dai un nome a quello che senti: dire «sono arrabbiato» abbassa l'allarme del cervello (Lieberman, 2007). Poi parla a te stesso con il tuo nome (Kross, 2014).",
+   "testo2": "Conta fino a tre. Guarda l'altro negli occhi. Rispondi <em>più piano di lui</em>.",
+   "espr": "sicuro"
+  },
+  {
+   "tipo": "finale",
+   "kicker": "PSICOLEVA",
+   "kicker2": "SU YOUTUBE",
+   "bianco": "OGNI SETTIMANA",
+   "giallo": "UN ESPERIMENTO COSÌ.",
+   "testo": "Studi veri su come funzionano le persone, spiegati in modo semplice. Salva questo carosello: ti servirà alla prossima lite."
+  }
+ ]
+}
