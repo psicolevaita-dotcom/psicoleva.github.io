@@ -1,0 +1,100 @@
+{
+ "slide": [
+  {
+   "tipo": "copertina",
+   "kicker_n": "4",
+   "kicker": "SEGNALI DI UN NARCISISTA",
+   "bianco": "TI È PIACIUTO SUBITO.",
+   "giallo": "ERA QUELLO IL SEGNALE.",
+   "sottotitolo": "Quattro esperimenti su chi vince sempre al primo incontro, e una domanda a cui rispondono da soli.",
+   "espr": "felice",
+   "posa": "giu"
+  },
+  {
+   "tipo": "studio",
+   "n": "",
+   "etichetta": "LA PREMESSA",
+   "bianco": "AL PRIMO INCONTRO VINCONO.",
+   "giallo": "DOPO SETTE SETTIMANE NO.",
+   "testo": "1998. Delroy Paulhus mette degli studenti in piccoli gruppi che si vedono ogni settimana e si danno un voto a vicenda. Prima ha misurato chi si sopravvaluta.",
+   "numeri": [
+    [
+     "Gradimento al primo incontro",
+     "MOLTO",
+     true
+    ],
+    [
+     "Gradimento dopo sette settimane",
+     "POCO",
+     false
+    ]
+   ],
+   "chiusa": "Loro erano gli stessi. Gli altri avevano avuto <em>il tempo di guardarli</em>."
+  },
+  {
+   "tipo": "studio",
+   "n": "1",
+   "etichetta": "IL FASCINO",
+   "bianco": "IL PIÙ SIMPATICO DELLA CLASSE",
+   "giallo": "ERA IL PIÙ NARCISISTA.",
+   "testo": "2010, Germania. Mitja Back e colleghi filmano il primo giorno di un corso: ogni studente si presenta in pochi secondi e gli altri lo votano. I più graditi sono quelli con più tratti narcisistici. Rivedendo i video, i ricercatori trovano quattro motivi.",
+   "chiusa": "Vestiti curati, sorriso sicuro, gesti decisi, <em>la battuta giusta</em>."
+  },
+  {
+   "tipo": "studio",
+   "n": "2",
+   "etichetta": "UNA FOTO",
+   "bianco": "BASTA UNA FOTO",
+   "giallo": "PER INTUIRLO.",
+   "testo": "2008. Simine Vazire e colleghi fotografano più di cento persone, stessa posa e stesso sfondo. Degli sconosciuti, guardando solo le foto, indovinano chi è più narcisista meglio che tirando a caso.",
+   "chiusa": "Li tradisce l'aspetto curatissimo. Il segnale è <em>quando l'immagine conta più di tutto</em>."
+  },
+  {
+   "tipo": "studio",
+   "n": "3",
+   "etichetta": "COME GUARDANO TE",
+   "bianco": "TU TI CHIEDI SE TI PIACE.",
+   "giallo": "LUI QUANTO PUOI SOPPORTARE.",
+   "testo": "2009, Canada. Sarah Wheeler, Angela Book e Kimberly Costello filmano dodici persone che camminano. Alcune sono già state vittime di un'aggressione, ma chi guarda non lo sa.",
+   "numeri": [
+    [
+     "Riconoscono le vittime, osservatori con pochi tratti psicopatici",
+     "MENO",
+     false
+    ],
+    [
+     "Riconoscono le vittime, osservatori con molti tratti psicopatici",
+     "DI PIÙ",
+     true
+    ]
+   ],
+   "chiusa": "Solo dal modo di camminare. <em>Non state facendo la stessa partita.</em>"
+  },
+  {
+   "tipo": "studio",
+   "n": "4",
+   "etichetta": "LA DOMANDA",
+   "bianco": "«SEI UN NARCISISTA?»",
+   "giallo": "TE LO DICONO DA SOLI.",
+   "testo": "2014. Sara Konrath e colleghi provano una domanda sola: «quanto sei d'accordo con la frase: io sono un narcisista?». In undici studi, con più di duemila persone, la risposta coincide con quella di un questionario lungo.",
+   "chiusa": "Per loro è una qualità, e <em>se ne vantano</em>."
+  },
+  {
+   "tipo": "difesa",
+   "kicker": "LA DIFESA",
+   "kicker2": "DUE COSE",
+   "bianco": "PRIMA DI FIDARTI,",
+   "giallo": "DAI TEMPO.",
+   "testo": "Chi brilla al primo incontro, dopo qualche settimana si vede per quello che è.",
+   "testo2": "E guarda come tratta chi non gli serve: il cameriere, il collega che non conta. <em>Con loro non recita.</em>",
+   "espr": "sicuro"
+  },
+  {
+   "tipo": "finale",
+   "bianco": "I QUATTRO SEGNALI",
+   "giallo": "NEL VIDEO COMPLETO.",
+   "testo": "«Perché ti fidi sempre delle persone sbagliate?», sul canale YouTube.",
+   "copertina": "/mnt/project-files/canale/video/10-persone-pericolose/copertina/copertina-A.png"
+  }
+ ]
+}
