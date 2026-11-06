@@ -1,0 +1,114 @@
+{
+"slide": [
+{
+"tipo": "copertina",
+"kicker_n": "4",
+"kicker": "ESPERIMENTI SULLA DISCIPLINA",
+"bianco": "SAI COSA FARE.",
+"giallo": "PERCHÉ NON LO FAI?",
+"sottotitolo": "Non è mancanza di forza di volontà. Quattro esperimenti spiegano cosa succede davvero.",
+"espr": "serio",
+"posa": "giu"
+},
+{
+"tipo": "studio",
+"n": "1",
+"etichetta": "LA BATTERIA",
+"bianco": "LA FORZA DI VOLONTÀ",
+"giallo": "SI SCARICA? NO.",
+"testo": "1998: Baumeister fa resistere degli studenti ai biscotti, poi dà un rompicapo impossibile. Quanto tempo prima di arrendersi? Nel 2016 23 università rifanno la prova con oltre 2.000 persone.",
+"chiusa": "Nel 2016 la differenza sparisce. <em>L'idea della batteria non ha retto.</em>",
+"numeri": [
+[
+"Chi aveva resistito ai biscotti",
+"8 MIN",
+false
+],
+[
+"Chi aveva mangiato i biscotti",
+"19 MIN",
+true
+]
+]
+},
+{
+"tipo": "studio",
+"n": "2",
+"etichetta": "LE TENTAZIONI",
+"bianco": "I DISCIPLINATI",
+"giallo": "RESISTONO MENO.",
+"testo": "2012. Wilhelm Hofmann dà a 205 persone un dispositivo che suona più volte al giorno: stai desiderando qualcosa che non dovresti? Stai resistendo? Raccoglie 7.827 episodi.",
+"numeri": [
+[
+"Chi ha più autocontrollo",
+"MENO TENTAZIONI",
+true
+],
+[
+"Bravura a resistere",
+"UGUALE",
+false
+]
+],
+"chiusa": "Non vincono più battaglie. <em>Ne combattono meno.</em>"
+},
+{
+"tipo": "studio",
+"n": "3",
+"etichetta": "IL PREMIO",
+"bianco": "LEGA IL DOVERE",
+"giallo": "A UN PIACERE.",
+"testo": "2014. Katy Milkman dà a più di 200 persone audiolibri avvincenti, ma da ascoltare solo in palestra. Chi vuole sapere come finisce la storia deve andare ad allenarsi.",
+"numeri": [
+[
+"Presenze in palestra, nelle prime settimane",
+"+51%",
+true
+],
+[
+"Dicevano che avrebbero pagato per continuare",
+"6 SU 10",
+true
+]
+],
+"chiusa": "Il cervello aspetta il premio <em>e si porta dietro anche il dovere.</em>"
+},
+{
+"tipo": "studio",
+"n": "4",
+"etichetta": "IL PIANO",
+"bianco": "DECIDI QUANDO",
+"giallo": "E DOVE.",
+"testo": "2006. Gollwitzer e Sheeran confrontano chi dice «lo farò» con chi dice «se è martedì alle sette, allora esco». Il secondo gruppo raggiunge l'obiettivo molto più spesso.",
+"numeri": [
+[
+"Studi messi insieme",
+"94",
+true
+],
+[
+"Persone coinvolte",
+"8.000+",
+true
+]
+],
+"chiusa": "Decidi quando sei lucido. <em>Quando sei stanco devi solo farlo.</em>"
+},
+{
+"tipo": "difesa",
+"kicker": "LA DIFESA",
+"kicker2": "STASERA",
+"bianco": "ALLONTANA",
+"giallo": "LA TENTAZIONE.",
+"testo": "Telefono in un'altra stanza, dolci fuori dalla vista. Poi scrivi una frase «se… allora…» per domani, con un'ora e un posto.",
+"testo2": "Così non serve più forza. <em>Serve meno battaglia.</em>",
+"espr": "sicuro"
+},
+{
+"tipo": "finale",
+"bianco": "I TRUCCHI COMPLETI",
+"giallo": "NEL VIDEO.",
+"testo": "«Il tuo cervello odia la disciplina. Si può ingannare.», sul canale YouTube."
+}
+]
+}
