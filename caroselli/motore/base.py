@@ -1,7 +1,7 @@
 """Pezzi comuni dello stile buio e luce (copiati dal motore del video 4): filtri SVG, font Bebas, ombra a terra."""
 import base64, os
 QUI = os.path.dirname(os.path.abspath(__file__))
-CHROME = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+CHROME = "/opt/pw-browsers/chromium-1243/chrome-linux64/chrome"
 FONT = os.path.join(QUI, "BebasNeue-Regular.ttf")
 FONTCSS = "@font-face{font-family:Bebas;src:url(data:font/ttf;base64," + base64.b64encode(open(FONT, "rb").read()).decode() + ")}"
 
