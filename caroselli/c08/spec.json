@@ -1,0 +1,135 @@
+{
+"slide": [
+{
+"tipo": "copertina",
+"kicker_n": "4",
+"kicker": "TRUCCHI DI CHI TI MANIPOLA",
+"bianco": "HAI RAGIONE TU.",
+"giallo": "PERCHÉ CHIEDI SCUSA?",
+"sottotitolo": "Cinque esperimenti su chi ti fa dubitare di te.",
+"espr": "ansioso",
+"posa": "petto"
+},
+{
+"tipo": "studio",
+"n": "1",
+"etichetta": "IL RICORDO",
+"bianco": "BASTA UNA PAROLA",
+"giallo": "PER CAMBIARE I RICORDI.",
+"testo": "1974. Elizabeth Loftus vuole sapere se una domanda può cambiare quello che ricordi. Mostra un incidente d'auto. Una settimana dopo chiede: hai visto vetri rotti? Non ce n'erano.",
+"barre": [
+[
+"Se avevi sentito «si sono urtate»",
+14,
+false
+],
+[
+"Se avevi sentito «si sono schiantate»",
+32,
+true
+]
+],
+"chiusa": "Chi ripete «non è andata così» <em>lavora sulla tua memoria.</em>"
+},
+{
+"tipo": "studio",
+"n": "2",
+"etichetta": "LA COLPA",
+"bianco": "CONFESSARE",
+"giallo": "UNA COLPA MAI FATTA.",
+"testo": "1996. Saul Kassin dice a 79 studenti: non premere il tasto Alt, o il computer si blocca. Il computer si blocca da solo. Poi li accusa e gli porge una confessione.",
+"barre": [
+[
+"Firmano, in media",
+69,
+false
+],
+[
+"Ritmo veloce e un finto testimone",
+100,
+true
+]
+],
+"chiusa": "In quel gruppo, <em>il 65% ci crede davvero.</em>"
+},
+{
+"tipo": "studio",
+"n": "3",
+"etichetta": "IL SILENZIO",
+"bianco": "TI IGNORA",
+"giallo": "PER GIORNI?",
+"testo": "2000. Kipling Williams vuole sapere quanto basta per far male. Tre giocatori online si passano una palla. A un certo punto a te non la passa più nessuno. Sono sconosciuti.",
+"numeri": [
+[
+"Per sentirsi esclusi e senza valore",
+"POCHI MINUTI",
+false
+],
+[
+"Anche sapendo che gioca un computer",
+"FA MALE",
+true
+]
+],
+"chiusa": "Dopo, chi è escluso <em>dice sì più spesso.</em>"
+},
+{
+"tipo": "studio",
+"n": "4",
+"etichetta": "IL SENSO DI COLPA",
+"bianco": "TI SENTI IN COLPA?",
+"giallo": "DIRAI DI SÌ.",
+"testo": "1967. Jonathan Freedman fa credere ad alcune persone di aver combinato un danno, per esempio rovesciare schede messe in ordine. Poi qualcuno chiede loro un favore.",
+"numeri": [
+[
+"Esperimenti fatti",
+"3",
+false
+],
+[
+"Chi si sente in colpa accetta più spesso",
+"3 SU 3",
+true
+]
+],
+"chiusa": "«Fai pure, tanto io...» <em>serve a questo.</em>"
+},
+{
+"tipo": "studio",
+"n": "5",
+"etichetta": "LA GARA",
+"bianco": "TI FA SENTIRE",
+"giallo": "IN GARA CON UN'ALTRA?",
+"testo": "1975. Stephen Worchel fa assaggiare gli stessi biscotti da due barattoli. In uno ce ne sono dieci, nell'altro due, perché altri li hanno appena chiesti.",
+"numeri": [
+[
+"Dieci nel barattolo",
+"NORMALI",
+false
+],
+[
+"Due, presi da altri",
+"PIÙ BUONI",
+true
+]
+],
+"chiusa": "Per questo ti parla sempre <em>di qualcun altro.</em>"
+},
+{
+"tipo": "difesa",
+"kicker": "LA DIFESA",
+"bianco": "PRIMA DI SCUSARTI,",
+"giallo": "CONTROLLA I FATTI.",
+"testo": "Scrivi cosa è successo il giorno stesso, con le parole esatte. Se ti dice «non è mai successo», hai qualcosa di tuo da rileggere. E racconta i fatti a una persona fuori dalla coppia.",
+"testo2": "Il senso di colpa vero ha un motivo preciso. <em>Quello indotto no.</em>",
+"espr": "sicuro"
+},
+{
+"tipo": "finale",
+"bianco": "COME RICONOSCERLO",
+"giallo": "NEL VIDEO.",
+"testo": "«Ti scusi anche quando hai ragione? Come riconoscere il gaslighting», sul canale YouTube.",
+"copertina": "/home/user/psicoleva-archivio/canale/video/13-gaslighting/copertina/copertina-A.png"
+}
+]
+}
